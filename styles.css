@@ -55,8 +55,8 @@ header {
 
 #text {
   position: absolute;
-  font-size: 4rem;
-  color: #fff;
+  font-size: 5rem;
+  color: white;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }
 
@@ -76,5 +76,12 @@ header {
 
 .sec h2 {
   font-size: 3rem;
-  color: antiquewhite;
+  color: rgb(250, 248, 246);
+  margin-top: 10px;
+}
+
+.sec p {
+  font-size: 1rem;
+  color: white;
+  font-weight: 300;
 }
